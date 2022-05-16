@@ -24,6 +24,10 @@
 - 회원 정보 수정 기능
 
 ## 05. 화면 UI
+첫 화면
+![로그인이 필요합니다](https://user-images.githubusercontent.com/99165620/168627575-4ce74dca-6fbf-4451-bae0-877a521d30f1.png)
+회원가입
+![회원가입](https://user-images.githubusercontent.com/99165620/168627582-6b85f453-50b6-44f7-a5c6-d9a822e673cb.png)
 
 
 ## 06. 트러블 슈팅
