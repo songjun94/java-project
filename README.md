@@ -25,28 +25,38 @@
 
 ## 05. 화면 UI
 
-테이블 조회
-![user table](https://user-images.githubusercontent.com/99165620/168628655-5f812de6-6a66-4e53-80d4-09703a5c2171.png)
-
-첫 화면
-![로그인이 필요합니다](https://user-images.githubusercontent.com/99165620/168627575-4ce74dca-6fbf-4451-bae0-877a521d30f1.png)
-
-회원가입
-![회원가입](https://user-images.githubusercontent.com/99165620/168627582-6b85f453-50b6-44f7-a5c6-d9a822e673cb.png)
-
-로그인 후 화면
-![로그인후](https://user-images.githubusercontent.com/99165620/168628663-ecc591dd-405b-4448-afd1-de4a0c870656.png)
-
-회원가입 후 mysql 
-![정보수정전 user](https://user-images.githubusercontent.com/99165620/168628673-7f5f367f-c4e9-4106-ad19-c2c4562ff58b.png)
-
-회원정보 수정
-![정보 수정](https://user-images.githubusercontent.com/99165620/168628668-2c526060-c8f2-44fe-a7c3-aad8054f44b1.png)
-
-회원정보 수정 후 mysql
-![정보수정 후 user](https://user-images.githubusercontent.com/99165620/168628670-55e72150-b0e2-41d5-b481-78786b58714d.png)
+#### 테이블 조회
+![user table](https://user-images.githubusercontent.com/99165620/168630707-b7f3010d-7681-467d-9cc3-8fc2e6090c19.png)
 
 
+
+#### 첫 화면
+![로그인이 필요합니다](https://user-images.githubusercontent.com/99165620/168630718-de4e1533-d36a-447b-bb97-d2a6bef803c0.png)
+
+
+
+#### 회원가입
+![회원가입](https://user-images.githubusercontent.com/99165620/168630732-bc8cf359-30d4-45f0-bb35-d8c682415b7c.png)
+
+
+
+#### 로그인 후 화면
+![로그인후](https://user-images.githubusercontent.com/99165620/168630719-190fccdb-2524-4ab7-94be-5a34e3eebd88.png)
+
+
+
+#### 회원가입 후 mysql 
+![정보수정전 user](https://user-images.githubusercontent.com/99165620/168630730-7fc54bc8-c838-4099-a9b5-1e65c69453c3.png)
+
+
+
+#### 회원정보 수정
+![정보 수정](https://user-images.githubusercontent.com/99165620/168630722-652150a1-ee1e-4b11-962a-083862fbd1a0.png)
+
+
+
+#### 회원정보 수정 후 mysql
+![정보수정 후 user](https://user-images.githubusercontent.com/99165620/168630729-03e16da5-675f-4cab-bbe3-223263fff1b8.png)
 
 
 ## 06. 트러블 슈팅
