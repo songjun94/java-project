@@ -59,6 +59,10 @@
 ![정보수정 후 user](https://user-images.githubusercontent.com/99165620/168630729-03e16da5-675f-4cab-bbe3-223263fff1b8.png)
 
 
+
+#### 로그아웃
+
+
 ## 06. 트러블 슈팅
 - 환경변수 문제
 jdk 버전 최신버전은 오류가 많다-> 17 에서 11버전으로 써서 해결
