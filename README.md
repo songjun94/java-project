@@ -23,7 +23,7 @@
 - ID정보 불러오는 기능
 - 회원 정보 수정 기능
 
-## 05. 화면 UI
+## 05. 화면 
 
 #### 테이블 조회
 ![user table](https://user-images.githubusercontent.com/99165620/168630707-b7f3010d-7681-467d-9cc3-8fc2e6090c19.png)
