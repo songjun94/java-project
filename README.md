@@ -8,10 +8,11 @@
 
 ## 01. 기술 스택
 - jsp
-- tomcat 
+- tomcat (tomcat v8.5)
 - bootstrap
 - Java (eclipse)
-- Mysql, Mysql(connector)
+- Mysql, Mysql(connector-java-8.0.29.jar)
+- jdk (jdk-11.0.14.1+1)
 
 ## 02. 프로젝트 주제
 - JAVA 수업시간에 배운 CRUD(Create(생성), Read(읽기), Update(갱신), Delete(삭제))를 활용한 회원관리 시스템을 만들어 보자
