@@ -23,7 +23,7 @@
 - ID정보 불러오는 기능
 - 회원 정보 수정 기능
 
-## 05. 화면 
+## 04. 기능명세  
 
 #### 테이블 조회
 ![user table](https://user-images.githubusercontent.com/99165620/168630707-b7f3010d-7681-467d-9cc3-8fc2e6090c19.png)
@@ -79,7 +79,7 @@
 ![탈퇴후 user](https://user-images.githubusercontent.com/99165620/168700925-c20ee94e-2443-4b92-a7af-2755110073cb.png)
 
 
-## 06. 트러블 슈팅
+## 05. 트러블 슈팅
 - 환경변수 문제
 jdk 버전 최신버전은 오류가 많다-> 17 에서 11버전으로 써서 해결
 
