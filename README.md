@@ -63,6 +63,22 @@
 #### 로그아웃
 ![로그아웃](https://user-images.githubusercontent.com/99165620/168632870-65a967ad-3102-4782-91b6-7dd682725b27.png)
 
+
+
+### 탈퇴하기 전 database
+![탈퇴 user](https://user-images.githubusercontent.com/99165620/168700919-66f5ddfb-4e23-47ab-88b6-00a4864d2eb2.png)
+
+
+
+#### 탈퇴하기
+![탈퇴확인창](https://user-images.githubusercontent.com/99165620/168700924-2a925694-18bf-40db-b446-c53b2683f121.png)
+
+
+
+#### 탈퇴 후 database
+![탈퇴후 user](https://user-images.githubusercontent.com/99165620/168700925-c20ee94e-2443-4b92-a7af-2755110073cb.png)
+
+
 ## 06. 트러블 슈팅
 - 환경변수 문제
 jdk 버전 최신버전은 오류가 많다-> 17 에서 11버전으로 써서 해결
@@ -75,4 +91,4 @@ import java.sql.Statement (editAction.jsp 파일)
 private Statement stmt; 없는 코드 추가 (UserDAO.class 파일)
 pstmt = conn.prepareStatement();     ====> 	stmt = conn.createStatement();(UserDAO.class 파일)
 
-- 회원 탈퇴 기능
+- 
