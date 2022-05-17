@@ -91,4 +91,4 @@ import java.sql.Statement (editAction.jsp 파일)
 private Statement stmt; 없는 코드 추가 (UserDAO.class 파일)
 pstmt = conn.prepareStatement();     ====> 	stmt = conn.createStatement();(UserDAO.class 파일)
 
-- 
+
