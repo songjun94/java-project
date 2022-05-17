@@ -106,6 +106,15 @@ public class UserDAO {
 		System.out.println("return: -1");
 		return -1;
 	} 
+	public int delete(String userID) {
+		String SQL = "DELETE FROM USER WHERE userID='"+userID+"'";
+		try {
+			pstmt = conn.prepareStatement(SQL);
+			pstmt.executeUpdate(SQL);
+			} catch(Exception e) {
+				e.printStackTrace();
+			}
+		return -1; 
 		
 	}
 
